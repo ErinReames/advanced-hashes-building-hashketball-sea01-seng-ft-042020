@@ -54,7 +54,11 @@ def game_hash
             :shoe => 15,
             :points => 19,
             :rebounds => 
-            
+        }
+       ]
+
+ 
+      },   
             
     :away =>{
       
