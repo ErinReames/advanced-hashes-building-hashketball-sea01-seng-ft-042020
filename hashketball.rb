@@ -78,7 +78,7 @@ def game_hash
             :steals => 2,
             :blocks => 7,
             :slam_dunks => 2
-        }
+        },
         {
           :player_name => "Bismack Biyombo",
             :number => 0,
@@ -89,7 +89,7 @@ def game_hash
             :steals => 22,
             :blocks => 15,
             :slam_dunks => 10
-        }
+        },
         
           {
           :player_name => "Desagna Diop",
@@ -101,7 +101,7 @@ def game_hash
             :steals => 4,
             :blocks => 5,
             :slam_dunks => 5
-        }
+        },
         
           {
           :player_name => "Ben Gordon",
@@ -113,7 +113,7 @@ def game_hash
             :steals => 1,
             :blocks => 1,
             :slam_dunks => 0
-        }
+        },
         
           {
           :player_name => "Kemba Walker",
@@ -125,7 +125,7 @@ def game_hash
             :steals => 7,
             :blocks => 5,
             :slam_dunks => 12
-        }
+        },
         
         ]
         }
