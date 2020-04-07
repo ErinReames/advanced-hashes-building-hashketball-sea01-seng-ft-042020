@@ -90,7 +90,7 @@ def game_hash
             :blocks => 15,
             :slam_dunks => 10
         }
-        {
+        
           {
           :player_name => "Desagna Diop",
             :number => 2,
@@ -102,7 +102,7 @@ def game_hash
             :blocks => 5,
             :slam_dunks => 5
         }
-        {
+        
           {
           :player_name => "Ben Gordon",
             :number => 8,
@@ -127,11 +127,8 @@ def game_hash
             :slam_dunks => 12
         }
         
-          
-        
-        
         ]
-    }
-  }
+        }
+       }
   
 end 
